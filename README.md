@@ -1,3 +1,3 @@
 # week1
 My first repo
-Tyanna
+My first rep Contrib: Tyanna
